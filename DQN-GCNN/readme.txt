@@ -2,7 +2,7 @@
 
 
 Steps for running DQN algorithm:
-- Go to GrouPy folder (used from publically available code by Cohen and Welling https://github.com/tscohen/GrouPy and slightly modified as was required)
+- Go to GrouPy folder (https://github.com/basusourya/GrouPy) (used from publically available code by Cohen and Welling https://github.com/tscohen/GrouPy and slightly modified as was required)
 - run the following for dataset named "X"
 
 python setup.py install
